@@ -9,3 +9,7 @@ Answer: Education - for example, collecting test score data in a certain jurisdi
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a new commit, combining changes between two branches, and preserves the branch history. Rebasing, however, creates a replays the commit from one branch, such as the main branch, onto the other. This makes a linear commit history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning the methods of modern data science and how we use this data to eventually solve real world problems! I am very passionate about the policy implications of data science as it provides hard evidence to advocate for certain policies.
