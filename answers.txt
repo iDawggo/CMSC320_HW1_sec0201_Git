@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git, which provides version control, allows us to track changes throughout out project and maintain a history of our code, which especially serves useful in collaborative projects like the CMSC 320 final project.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Education - for example, collecting test score data in a certain jurisdiction like a state and comparing that data over time or per school districts can help determine policy decisions such as where to redirect school funding, as identifying lower-performing school districts can indicate a need to direct funding and resources to those students.
