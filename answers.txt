@@ -5,3 +5,7 @@ Answer: Git, which provides version control, allows us to track changes througho
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Education - for example, collecting test score data in a certain jurisdiction like a state and comparing that data over time or per school districts can help determine policy decisions such as where to redirect school funding, as identifying lower-performing school districts can indicate a need to direct funding and resources to those students.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new commit, combining changes between two branches, and preserves the branch history. Rebasing, however, creates a replays the commit from one branch, such as the main branch, onto the other. This makes a linear commit history.
